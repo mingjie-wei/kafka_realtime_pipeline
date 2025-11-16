@@ -348,6 +348,8 @@ The dashboard displays:
 - **Windowed Metrics**: Aggregations from tumbling/sliding windows
 - **Correlation Heatmap**: Relationships between sensor metrics
 
+https://github.com/user-attachments/assets/db88040b-81a7-4966-a256-35bd7e1debd9
+
 ### Producer Console
 ```
 [Producer] ✓ Sensor #42 | Zone: Downtown | Temp: 24.3°C | AQI: 87 | Traffic: 165
