@@ -23,6 +23,9 @@ An advanced real-time data engineering system that monitors smart city IoT senso
 - [Screenshots](#-screenshots)
 - [Troubleshooting](#-troubleshooting)
 - [Future Enhancements](#-future-enhancements)
+- [Technologies Used](#-technologies-used)
+- [Development Notes](#-development-notes)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -485,6 +488,3 @@ This project demonstrates:
 - ✅ **Sequential/Anomaly modeling**
 - ✅ **Windowed operations** (tumbling & sliding)
 - ✅ **Real-time aggregations**
-
----
-
