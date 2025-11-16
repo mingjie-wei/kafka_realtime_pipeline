@@ -481,14 +481,10 @@ This project demonstrates:
 - ✅ **Apache Kafka streaming**
 - ✅ **PostgreSQL storage**
 - ✅ **Streamlit live dashboard**
-- ✅ **Apache Flink integration** (Bonus 10%)
-- ✅ **Sequential/Anomaly modeling** (Bonus 10%)
+- ✅ **Apache Flink integration**
+- ✅ **Sequential/Anomaly modeling**
 - ✅ **Windowed operations** (tumbling & sliding)
 - ✅ **Real-time aggregations**
 
 ---
-
-**Built with ❤️ for IDS Data Engineering Systems @ Duke University**
-
-🎓 **Academic Project** - Real-time Data Pipeline with Stream Processing & ML
 
