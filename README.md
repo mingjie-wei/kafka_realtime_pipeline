@@ -11,21 +11,21 @@ An advanced real-time data engineering system that monitors smart city IoT senso
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Data Domain](#data-domain)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Advanced Features](#advanced-features)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Troubleshooting](#troubleshooting)
-- [Future Enhancements](#future-enhancements)
-- [Technologies Used](#technologies-used)
-- [Development Notes](#development-notes)
-- [Acknowledgments](#acknowledgments)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Architecture](#-architecture)
+- [Data Domain](#-data-domain)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Advanced Features](#-advanced-features)
+- [Project Structure](#-project-structure)
+- [Screenshots](#-screenshots)
+- [Troubleshooting](#-troubleshooting)
+- [Future Enhancements](#-future-enhancements)
+- [Technologies Used](#-technologies-used)
+- [Development Notes](#-development-notes)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -364,6 +364,9 @@ https://github.com/user-attachments/assets/db88040b-81a7-4966-a256-35bd7e1debd9
 [Consumer] ✓ #123 Zone: Tech Hub | Temp: 21.5°C | AQI: 52 | Traffic: 115
 [Window-1min] Zone: Downtown | Sensors: 8 | Avg Temp: 23.1°C | Avg AQI: 81 | Anomalies: 0
 ```
+
+### IoT Sensor Anomaly Detection Model
+![model](./video/model.png)
 
 ---
 
