@@ -11,21 +11,21 @@ An advanced real-time data engineering system that monitors smart city IoT senso
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Data Domain](#-data-domain)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Advanced Features](#-advanced-features)
-- [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
-- [Troubleshooting](#-troubleshooting)
-- [Future Enhancements](#-future-enhancements)
-- [Technologies Used](#-technologies-used)
-- [Development Notes](#-development-notes)
-- [Acknowledgments](#-acknowledgments)
+- [Overview](#overview)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Data Domain](#data-domain)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Advanced Features](#advanced-features)
+- [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
+- [Troubleshooting](#troubleshooting)
+- [Future Enhancements](#future-enhancements)
+- [Technologies Used](#technologies-used)
+- [Development Notes](#development-notes)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
